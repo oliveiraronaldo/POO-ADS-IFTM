@@ -21,6 +21,7 @@ public class FacaEnquanto {
 
 
         } while (menu != 'n' && menu != 'N');
+        
 
         sc.close();
     }
